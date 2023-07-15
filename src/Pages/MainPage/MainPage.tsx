@@ -1,5 +1,5 @@
-import MarketPage from '../../Pages/MarketPage/MarketPage.tsx'
-import NavigationBar from '../../component/NavigationBar/NavigationBar.tsx'
+import NavigationBar from '@/component/NavigationBar/NavigationBar.tsx'
+import MarketPage from '@/Pages/MarketPage/MarketPage.tsx'
 
 import {
   FIFACMO_Container,

@@ -1,6 +1,6 @@
 import { RouteObject } from "react-router-dom";
 
-import MarketPage from "./MarketPage";
+import MarketPage from "@/Pages/MarketPage/MarketPage";
 
 export const MarketRoute: RouteObject[] = [
     {

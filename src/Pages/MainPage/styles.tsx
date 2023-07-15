@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import { themeS } from '../../consts/theme';
+import { themeS } from '@/consts/theme';
 
 export const FIFACMO_Container = styled.div`
     display: flex;

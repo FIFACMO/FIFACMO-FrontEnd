@@ -4,10 +4,10 @@ import ReactDOM from 'react-dom/client'
 import { RouteObject, RouterProvider, createBrowserRouter } from 'react-router-dom'
 import type { Router as RemixRouter } from "@remix-run/router";
 
-import { MainRoute } from './Pages/MainPage/route';
+import { MainRoute } from '@/Pages/MainPage/route';
 // import Routes from './routes';
 
-import './globalStyle.css'
+import '@/globalStyle.css'
 
 const coreRoutes: RouteObject[] = ([
   {

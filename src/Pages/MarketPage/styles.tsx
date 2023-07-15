@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import { themeS } from '../../consts/theme';
+import { themeS } from '@/consts/theme';
 
 export const Market_Container = styled.div`
     height: 95%;
