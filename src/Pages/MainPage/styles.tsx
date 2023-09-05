@@ -1,7 +1,7 @@
 import styled from 'styled-components'
 import { themeS } from '@/consts/theme';
 
-export const FIFACMO_Container = styled.div`
+export const FIFACMO_Container = styled.main`
     display: flex;
     flex-direction: row;
     
